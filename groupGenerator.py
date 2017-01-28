@@ -4,12 +4,21 @@ Owen Chapman
 Experience of God
 Group generator
 
+Description: 
+Currently generates groupings simply by generating 10000 random groupings and choosing the best.
+We could mess with optimization algs, feel free if you have the time and motivation.
+All-male groups incur a small penalty, One-female groups incur a larger penalty.
+
+How to use:
+Enter unique names in roster.txt.
+You will need to hand-add groups used in groups.txt.
+Enter desired groupsizes in the list under the #PARAMETERS tag.
+
 Yes, I'm aware the code is hacky. Yes, I'm even aware that it's incorrect.
 No, I don't care. It's adequate for its commission.
 
 TODO:
 Javascript / HTML for user interface?
-format and read accompanying files: roster.txt, groups.txt
 """
 
 import numpy as np
