@@ -1,0 +1,18 @@
+% Student list. All names should be unique.
+% Commented lines begin with a %.
+Chapman M
+Flavin F
+Kaul F
+Lieberfeld M
+ZhangM M
+Kim M
+Koo F
+Marsh M
+Vorva F
+Larkin F
+Roberts M
+Villars M
+ZhangV F
+Zhu M
+God M
+%

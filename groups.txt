@@ -1,0 +1,9 @@
+% Group list. Please enter in the form:
+% name name name name
+% obviously, minus the comment. 
+% Names must match the names given in roster.txt.
+% Commented lines begin with a %.
+Chapman Flavin Kaul Lieberfeld ZhangM
+Kim Koo Marsh Vorva God
+Larkin Roberts Villars ZhangV Zhu
+%
